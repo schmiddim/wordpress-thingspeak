@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: Thingspeak Widget
+Plugin Name: Widgets for Thingspeak
 Plugin URI: https://www.radikalblogger.de/
 Description: Show Thingspeak channels in your widget bar
 Author: Michael Schmitt
